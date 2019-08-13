@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% assign todayWiki = site.posts.first %}
+
+<div>
+{% if todayWiki.title %}
+  <div class="mb4">
+    {% if todayWiki.date %}<div class="fw600 light-silver mt1">Today's Wild Wiki - {{ todayWiki.date | date_to_string }}</div>{% endif %}
+    <h1 class="ttu f3 mt0 lh-title cb mb2">
+      <a href="{{todayWiki.link}}">{{ todayWiki.title }}</a> - {{todayWiki.subtitle}}
+    </h1>
+  </div>
+{% endif %}
+</div>
+{{todayWiki.content}}
+<p class="mt4">
+    Today's article discovered and uploaded by <strong>{{ todayWiki.author }}</strong>
+</p>

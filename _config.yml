@@ -1,0 +1,23 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Wild Wikis of the West"
+description:      "Wild wikis of the west"
+url:              https://www.wildwikis.com # Site url, without a slash at the end.
+signoff:          "a" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+future: true
+links:
+  - name:         Today
+    url:          /
+    external:     false
+  - name:         Archive
+    url:          /archive.html
+    external:     false
+  - name:         About WWW
+    url:          /about.html
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+defaults:
+  - values:
+      layout: "default"

@@ -1,0 +1,17 @@
+
+    <header class="tc mt4">
+      <a href="{{ site.url }}">
+        <img src="{{ site.url }}/images/horse.gif" alt="Home" width="53" height="59">
+      </a>
+      <p>{{ site.title }}</p>
+    </header>
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
+        {% for link in site.links %}
+          <a class="link blue hover-mid-gray mh2 pv1"
+             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
+             {{ link.name }}
+           </a>
+        {% endfor %}
+      </nav>
+    </div>
