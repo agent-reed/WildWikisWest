@@ -3,7 +3,7 @@ title: Dyatlov Pass Incident
 subtitle: A soviet trekking expedition leads to the unexplained death of 9 scientists
 date: 2019-08-07
 link: https://en.wikipedia.org/wiki/Dyatlov_Pass_incident
-linkText: The Dyatlov Pass incident refers to the deaths of nine skiers/hikers in the northern Ural Mountains, in the former Soviet Union, between the 1st and 2nd of February, 1959, due to unclear circumstances. The experienced trekking group, who were all from the Ural Polytechnical Institute, had established a camp on the slopes of Kholat Syakhl, in an area now named in honor of the group's leader, Igor Dyatlov. During the night, something caused them to tear their way out of their tents and flee the campsite, all while inadequately dressed for the heavy snowfall and sub-zero temperatures.
+linkText: The Dyatlov Pass incident refers to the deaths of nine skiers/hikers in the northern Ural Mountains, in the former Soviet Union, between the 1st and 2nd of February, 1959, due to unclear circumstances.
 author: Andrew G
 image: dyatlovpassincident.jpg
 tags:
