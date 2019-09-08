@@ -1,7 +1,7 @@
 ---
 title: Ambergris
 subtitle: One sperm whale's digestive system is another man's perfume.
-date: 2019-08-13
+date: 2019-08-28
 link: https://en.wikipedia.org/wiki/Ambergris
 linkText: Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
 author: Michael K

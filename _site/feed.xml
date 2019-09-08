@@ -3,8 +3,81 @@
   <channel>
     <title>Wild Wikis of the West</title>
     <description>Wild wikis of the west</description>
-    <link>https://www.wildwikis.com</link>
-    <atom:link href="https://www.wildwikis.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Ambergris</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black dim&quot; href=&quot;https://en.wikipedia.org/wiki/Ambergris&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/posts/ambergris.jpg&quot; class=&quot;db&quot; alt=&quot;Ambergris&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Ambergris&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
+&lt;h4 id=&quot;people-even-like-to-eat-it&quot;&gt;People even like to eat it!&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“A serving of eggs and ambergris was reportedly King Charles II of England’s favorite dish.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;evidence-that-massive-squids-attack-sperm-whales&quot;&gt;Evidence that massive squids attack sperm whales&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Because the beaks of giant squids have been discovered within lumps of ambergris, scientists have theorized that the substance is produced by the whale’s gastrointestinal tract to ease the passage of hard, sharp objects that it may have eaten.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 28 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/08/28/ambergris.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/28/ambergris.html</guid>
+      </item>
+    
+      <item>
+        <title>Stuxnet</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black dim&quot; href=&quot;https://en.wikipedia.org/wiki/Stuxnet&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/posts/stuxnet.jpg&quot; class=&quot;db&quot; alt=&quot;Stuxnet&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Stuxnet&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Stuxnet is a malicious computer worm, first uncovered in 2010, thought to have been in development since at least 2005. Stuxnet targets SCADA systems and is believed to be responsible for causing substantial damage to Iran's nuclear program. Although neither country has openly admitted responsibility, the worm is believed to be a jointly built American/Israeli cyberweapon.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
+&lt;h4 id=&quot;mysterious-origins&quot;&gt;Mysterious origins&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“In 2015, Kaspersky Lab noted that the Equation Group had used two of the same zero-day attacks, prior to their use in Stuxnet, and commented that: “the similar type of usage of both exploits together in different computer worms, at around the same time, indicates that the Equation Group and the Stuxnet developers are either the same or working closely together”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Tue, 27 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/08/27/stuxnet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/27/stuxnet.html</guid>
+      </item>
     
       <item>
         <title>Bat Bomb</title>
@@ -14,7 +87,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/batbomb.jpg&quot; class=&quot;db&quot; alt=&quot;Bat Bomb&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/batbomb.jpg&quot; class=&quot;db&quot; alt=&quot;Bat Bomb&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -40,9 +113,9 @@
 
 &lt;hr /&gt;
 </description>
-        <pubDate>Fri, 09 Aug 2019 00:00:00 -0700</pubDate>
-        <link>https://www.wildwikis.com/2019/08/09/nuclearaccidents.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/09/nuclearaccidents.html</guid>
+        <pubDate>Tue, 13 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/08/13/batbomb.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/13/batbomb.html</guid>
       </item>
     
       <item>
@@ -53,7 +126,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/krakatoa.jpg&quot; class=&quot;db&quot; alt=&quot;Krakatoa&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/krakatoa.jpg&quot; class=&quot;db&quot; alt=&quot;Krakatoa&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -80,8 +153,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Thu, 08 Aug 2019 00:00:00 -0700</pubDate>
-        <link>https://www.wildwikis.com/2019/08/08/krakatoa.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/08/krakatoa.html</guid>
+        <link>http://localhost:4000/2019/08/08/krakatoa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/08/krakatoa.html</guid>
       </item>
     
       <item>
@@ -92,7 +165,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/dyatlovpassincident.jpg&quot; class=&quot;db&quot; alt=&quot;Dyatlov Pass Incident&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/dyatlovpassincident.jpg&quot; class=&quot;db&quot; alt=&quot;Dyatlov Pass Incident&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -130,8 +203,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 07 Aug 2019 00:00:00 -0700</pubDate>
-        <link>https://www.wildwikis.com/2019/08/07/datylovpassincident.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/07/datylovpassincident.html</guid>
+        <link>http://localhost:4000/2019/08/07/datylovpassincident.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/07/datylovpassincident.html</guid>
       </item>
     
       <item>
@@ -142,7 +215,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/puxphil.jpg&quot; class=&quot;db&quot; alt=&quot;Punxsutawney Phil&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/puxphil.jpg&quot; class=&quot;db&quot; alt=&quot;Punxsutawney Phil&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -169,8 +242,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 05 Aug 2019 00:00:00 -0700</pubDate>
-        <link>https://www.wildwikis.com/2019/08/05/puxatawni-phil.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/05/puxatawni-phil.html</guid>
+        <link>http://localhost:4000/2019/08/05/puxatawni-phil.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/05/puxatawni-phil.html</guid>
       </item>
     
       <item>
@@ -181,7 +254,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;Musak&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;Musak&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -208,8 +281,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 31 Jul 2019 00:00:00 -0700</pubDate>
-        <link>https://www.wildwikis.com/2019/07/31/musak.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/07/31/musak.html</guid>
+        <link>http://localhost:4000/2019/07/31/musak.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/31/musak.html</guid>
       </item>
     
   </channel>
