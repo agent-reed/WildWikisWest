@@ -3,28 +3,28 @@
   <channel>
     <title>Wild Wikis of the West</title>
     <description>Wild wikis of the west</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.wildwikis.com</link>
+    <atom:link href="https://www.wildwikis.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Bat Boy</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Bat_Boy_(character)&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/batboy.png&quot; class=&quot;db&quot; alt=&quot;Bat Boy&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Bat Boy&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            Bat Boy is a fictional creature who made numerous appearances in the American supermarket tabloid Weekly World News. The Weekly World News published patently fabricated stories which were purported to be factual.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Bat_Boy_(character)&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/batboy.png&quot; class=&quot;db&quot; alt=&quot;Bat Boy&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Bat Boy&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Bat Boy is a fictional creature who made numerous appearances in the American supermarket tabloid Weekly World News. The Weekly World News published patently fabricated stories which were purported to be factual.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
@@ -34,29 +34,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sun, 03 Nov 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/11/03/batboy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/03/batboy.html</guid>
+        <link>https://www.wildwikis.com/2019/11/03/batboy.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/03/batboy.html</guid>
       </item>
     
       <item>
         <title>Euthanasia Coaster</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Euthanasia_Coaster&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/euthanasiacoaster.png&quot; class=&quot;db&quot; alt=&quot;Euthanasia Coaster&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Euthanasia Coaster&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            The Euthanasia Coaster is a hypothetical steel roller coaster designed to kill its passengers.[1] In 2010, it was designed and made into a scale model by Lithuanian artist Julijonas Urbonas, a PhD candidate at the Royal College of Art in London. Urbonas, who has worked at an amusement park, stated that the goal of his concept roller coaster is to take lives &quot;with elegance and euphoria&quot;.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Euthanasia_Coaster&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/euthanasiacoaster.png&quot; class=&quot;db&quot; alt=&quot;Euthanasia Coaster&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Euthanasia Coaster&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    The Euthanasia Coaster is a hypothetical steel roller coaster designed to kill its passengers.[1] In 2010, it was designed and made into a scale model by Lithuanian artist Julijonas Urbonas, a PhD candidate at the Royal College of Art in London. Urbonas, who has worked at an amusement park, stated that the goal of his concept roller coaster is to take lives &quot;with elegance and euphoria&quot;.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
@@ -66,29 +66,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/11/02/euthanasiarollercoaster.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/02/euthanasiarollercoaster.html</guid>
+        <link>https://www.wildwikis.com/2019/11/02/euthanasiarollercoaster.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/02/euthanasiarollercoaster.html</guid>
       </item>
     
       <item>
         <title>Haast's Eagle</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Haast%27s_eagle&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/haastseagle.jpg&quot; class=&quot;db&quot; alt=&quot;Haast's Eagle&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Haast's Eagle&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            The Haast's eagle is an extinct species of eagle that once lived in the South Island of New Zealand, commonly accepted to be the pouakai of Maori legend.[1] The species was the largest eagle known to have existed. Its massive size is explained as an evolutionary response to the size of its prey, the flightless moa, the largest of which could weigh 230 kg (510 lb).
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Haast%27s_eagle&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/haastseagle.jpg&quot; class=&quot;db&quot; alt=&quot;Haast's Eagle&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Haast's Eagle&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    The Haast's eagle is an extinct species of eagle that once lived in the South Island of New Zealand, commonly accepted to be the pouakai of Maori legend.[1] The species was the largest eagle known to have existed. Its massive size is explained as an evolutionary response to the size of its prey, the flightless moa, the largest of which could weigh 230 kg (510 lb).
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;why-its-wild&quot;&gt;Why it’s wild&lt;/h3&gt;
@@ -100,29 +100,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 01 Nov 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/11/01/haasteagle.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/01/haasteagle.html</guid>
+        <link>https://www.wildwikis.com/2019/11/01/haasteagle.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/01/haasteagle.html</guid>
       </item>
     
       <item>
         <title>Existential risk from artificial intelligence</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/existentialriskai.jpg&quot; class=&quot;db&quot; alt=&quot;Existential risk from artificial intelligence&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Existential risk from artificial intelligence&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            the hypothesis that substantial progress in artificial general intelligence (AGI) could someday result in human extinction or some other unrecoverable global catastrophe.[1][2][3] It is argued that the human species currently dominates other species because the human brain has some distinctive capabilities that other animals lack. If AI surpasses humanity in general intelligence and becomes &quot;superintelligent&quot;, then...
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/existentialriskai.jpg&quot; class=&quot;db&quot; alt=&quot;Existential risk from artificial intelligence&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Existential risk from artificial intelligence&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    the hypothesis that substantial progress in artificial general intelligence (AGI) could someday result in human extinction or some other unrecoverable global catastrophe.[1][2][3] It is argued that the human species currently dominates other species because the human brain has some distinctive capabilities that other animals lack. If AI surpasses humanity in general intelligence and becomes &quot;superintelligent&quot;, then...
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;why-its-wild&quot;&gt;Why it’s wild&lt;/h3&gt;
@@ -132,29 +132,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 25 Sep 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/09/25/existentialartificialinteligence.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/25/existentialartificialinteligence.html</guid>
+        <link>https://www.wildwikis.com/2019/09/25/existentialartificialinteligence.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/25/existentialartificialinteligence.html</guid>
       </item>
     
       <item>
         <title>Straw Hat Riot</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Straw_Hat_Riot&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/strawhatriot.png&quot; class=&quot;db&quot; alt=&quot;Straw Hat Riot&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Straw Hat Riot&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            The Straw Hat Riot of 1922 was a riot that occurred in New York City. Originating as a series of minor riots, it spread due to men wearing straw hats past the unofficial date that was deemed socially acceptable, September 15. It lasted eight days, and it led to many arrests and some injuries.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Straw_Hat_Riot&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/strawhatriot.png&quot; class=&quot;db&quot; alt=&quot;Straw Hat Riot&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Straw Hat Riot&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    The Straw Hat Riot of 1922 was a riot that occurred in New York City. Originating as a series of minor riots, it spread due to men wearing straw hats past the unofficial date that was deemed socially acceptable, September 15. It lasted eight days, and it led to many arrests and some injuries.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;why-its-wild&quot;&gt;Why it’s wild&lt;/h3&gt;
@@ -164,29 +164,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 24 Sep 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/09/24/strawhatriot.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/24/strawhatriot.html</guid>
+        <link>https://www.wildwikis.com/2019/09/24/strawhatriot.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/24/strawhatriot.html</guid>
       </item>
     
       <item>
         <title>Streisand effect</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Streisand_effect&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/barbra.jpg&quot; class=&quot;db&quot; alt=&quot;Streisand effect&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Streisand effect&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Streisand_effect&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/barbra.jpg&quot; class=&quot;db&quot; alt=&quot;Streisand effect&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Streisand effect&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&quot;why-its-wild&quot;&gt;Why it’s wild&lt;/h3&gt;
@@ -200,29 +200,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 23 Sep 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/09/23/streisandeffect.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/23/streisandeffect.html</guid>
+        <link>https://www.wildwikis.com/2019/09/23/streisandeffect.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/23/streisandeffect.html</guid>
       </item>
     
       <item>
         <title>List of Paradoxes</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/List_of_paradoxes&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;List of Paradoxes&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;List of Paradoxes&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            This is a list of paradoxes, grouped thematically. The grouping is approximate, as paradoxes may fit into more than one category. This list collects only scenarios that have been called a paradox by at least one source and have their own article.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/List_of_paradoxes&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;List of Paradoxes&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;List of Paradoxes&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    This is a list of paradoxes, grouped thematically. The grouping is approximate, as paradoxes may fit into more than one category. This list collects only scenarios that have been called a paradox by at least one source and have their own article.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
@@ -232,29 +232,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 13 Sep 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/09/13/listofparadoxes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/13/listofparadoxes.html</guid>
+        <link>https://www.wildwikis.com/2019/09/13/listofparadoxes.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/13/listofparadoxes.html</guid>
       </item>
     
       <item>
         <title>Ambergris</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Ambergris&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/ambergris.jpg&quot; class=&quot;db&quot; alt=&quot;Ambergris&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Ambergris&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Ambergris&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/ambergris.jpg&quot; class=&quot;db&quot; alt=&quot;Ambergris&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Ambergris&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
@@ -271,29 +271,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 28 Aug 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/08/28/ambergris.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/28/ambergris.html</guid>
+        <link>https://www.wildwikis.com/2019/08/28/ambergris.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/28/ambergris.html</guid>
       </item>
     
       <item>
         <title>Stuxnet</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Stuxnet&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/stuxnet.jpg&quot; class=&quot;db&quot; alt=&quot;Stuxnet&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Stuxnet&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            Stuxnet is a malicious computer worm, first uncovered in 2010, thought to have been in development since at least 2005. Stuxnet targets SCADA systems and is believed to be responsible for causing substantial damage to Iran's nuclear program. Although neither country has openly admitted responsibility, the worm is believed to be a jointly built American/Israeli cyberweapon.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Stuxnet&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/stuxnet.jpg&quot; class=&quot;db&quot; alt=&quot;Stuxnet&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Stuxnet&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Stuxnet is a malicious computer worm, first uncovered in 2010, thought to have been in development since at least 2005. Stuxnet targets SCADA systems and is believed to be responsible for causing substantial damage to Iran's nuclear program. Although neither country has openly admitted responsibility, the worm is believed to be a jointly built American/Israeli cyberweapon.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
@@ -305,29 +305,29 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 27 Aug 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/08/27/stuxnet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/27/stuxnet.html</guid>
+        <link>https://www.wildwikis.com/2019/08/27/stuxnet.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/27/stuxnet.html</guid>
       </item>
     
       <item>
         <title>Bat Bomb</title>
         <description>
-&lt;div&gt;
-&lt;a class=&quot;db ml4 mr4 pv4 ph3 ph0-l no-underline black shadow-4 grow z-max&quot; href=&quot;https://en.wikipedia.org/wiki/Bat_bomb&quot;&gt;
-    &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-        &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-        
-        &lt;img src=&quot;http://localhost:4000/images/posts/batbomb.jpg&quot; class=&quot;db&quot; alt=&quot;Bat Bomb&quot; /&gt;
-        
-        &lt;/div&gt;
-        &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-        &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Bat Bomb&lt;/h1&gt;
-        &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-            Bat bombs were an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached.
-        &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/a&gt;
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Bat_bomb&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;https://www.wildwikis.com/images/posts/batbomb.jpg&quot; class=&quot;db&quot; alt=&quot;Bat Bomb&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Bat Bomb&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Bat bombs were an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
@@ -344,8 +344,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 13 Aug 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/08/13/batbomb.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/13/batbomb.html</guid>
+        <link>https://www.wildwikis.com/2019/08/13/batbomb.html</link>
+        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/13/batbomb.html</guid>
       </item>
     
   </channel>
