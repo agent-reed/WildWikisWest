@@ -30,3 +30,12 @@ steps:
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
+
+  # Copy files to Azure Blob Storage
+- task: AzureFileCopy@4
+  inputs:
+    sourcePath: '$(build.artifactstagingdirectory)'
+    azureSubscription: Static
+    destination: azureBlob
+    storage: wildwikis
+    containerName: '$web'
