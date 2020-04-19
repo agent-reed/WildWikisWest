@@ -22,20 +22,11 @@ steps:
     containerCommand: 'jekyll build'
     detached: false
 
-- task: CopyFiles@2
-  displayName: 'Copy Files'
-  inputs:
-    SourceFolder: '$(build.binariesDirectory)'
-    TargetFolder: '$(build.artifactstagingdirectory)'
-
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact: drop'
-
-  # Copy files to Azure Blob Storage
 - task: AzureFileCopy@4
   inputs:
-    sourcePath: '$(build.artifactstagingdirectory)'
-    azureSubscription: Static
-    destination: azureBlob
-    storage: wildwikis
-    containerName: '$web'
+    SourcePath: '$(build.artifactstagingdirectory)'
+    azureSubscription: 'Pay-As-You-Go(1)(f37bb0c4-ad1f-4000-b0fe-d11c03cb5e6e)'
+    Destination: 'AzureBlob'
+    storage: 'wildwikis'
+    ContainerName: '$web'
+
