@@ -3,8 +3,144 @@
   <channel>
     <title>Wild Wikis of the West</title>
     <description>Wild wikis of the west</description>
-    <link>https://www.wildwikis.com</link>
-    <atom:link href="https://www.wildwikis.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Dymaxion house</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Vincent_Kosuga&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/posts/dymaxion-house.jpg&quot; class=&quot;db&quot; alt=&quot;Dymaxion house&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Dymaxion house&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    The Dymaxion House was developed by inventor and architect Buckminster Fuller to address several perceived shortcomings with existing homebuilding techniques. Fuller designed several versions of the house at different times — all of them factory manufactured kits, assembled on site, intended to be suitable for any site or environment and to use resources efficiently.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
+
+&lt;h4 id=&quot;the-dymaxion-house-was-intended-to-reduce-water-use-by-a-greywater-system-a-packaging-commode-and-a-fogger-to-replace-showers-the-fogger-was-based-on-efficient-compressed-air-and-water-degreasers-but-with-much-smaller-water-particles-to-make-it-comfortable&quot;&gt;&lt;em&gt;“The Dymaxion house was intended to reduce water use by a greywater system, a packaging commode, and a “fogger” to replace showers. The fogger was based on efficient compressed-air and water degreasers, but with much smaller water particles to make it comfortable.”&lt;/em&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/04/26/dymaxion-house.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/26/dymaxion-house.html</guid>
+      </item>
+    
+      <item>
+        <title>Vincent Kosuga</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Vincent_Kosuga&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;Vincent Kosuga&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Vincent Kosuga&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Vincent W. Kosuga was an American onion farmer and commodity trader best known for manipulating the onion futures market. Public outcry over his practices led to the passing of the Onion Futures Act, which banned the trading of futures contracts on onions.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
+
+&lt;h4 id=&quot;kosuga-sometimes-used-deceptive-practices-to-manipulate-the-futures-market-he-once-bribed-a-weather-bureau-to-issue-a-frost-warning-in-order-to-inflate-the-price-of-futures-contracts-that-he-owned-the-weather-bureau-did-issue-the-warning-though-the-temperature-never-fell-below-50-f&quot;&gt;&lt;em&gt;“Kosuga sometimes used deceptive practices to manipulate the futures market. He once bribed a weather bureau to issue a frost warning in order to inflate the price of futures contracts that he owned. The weather bureau did issue the warning, though the temperature never fell below 50 °F”&lt;/em&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 22 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/04/22/vincent-kosuga.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/22/vincent-kosuga.html</guid>
+      </item>
+    
+      <item>
+        <title>Veerappan</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Veerappan&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/posts/veerappan.jpg&quot; class=&quot;db&quot; alt=&quot;Veerappan&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Veerappan&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Koose Munisamy Veerappan was an Indian bandit (dacoit) who was active for 36 years, kidnapping major politicians for ransom.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
+
+&lt;h4 id=&quot;he-married-muthulakshmi-who-reportedly-married-him-because-of-his-notoriety-and-moustache-in-1990&quot;&gt;&lt;em&gt;“He married Muthulakshmi, who reportedly married him because of his “notoriety and moustache” in 1990.”&lt;/em&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/04/19/veerappan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/19/veerappan.html</guid>
+      </item>
+    
+      <item>
+        <title>Mozart and scatology</title>
+        <description>
+&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
+        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Mozart_and_scatology&quot;&gt;
+            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
+                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
+                
+                &lt;img src=&quot;http://localhost:4000/images/posts/mozart-scat.jpg&quot; class=&quot;db&quot; alt=&quot;Mozart and scatology&quot; /&gt;
+                
+                &lt;/div&gt;
+                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
+                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Mozart and scatology&lt;/h1&gt;
+                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
+                    Wolfgang Amadeus Mozart displayed scatological humour in his letters and a few recreational compositions.
+                &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quote-from-the-article&quot;&gt;Quote from the article&lt;/h3&gt;
+
+&lt;h4 id=&quot;_&quot;&gt;_”&lt;/h4&gt;
+
+&lt;p&gt;Are you ready my love.
+Stay strong and healthy for the fateful day,
+the day that I rupture your insides.
+Into your mouth your arse you’ll shove.
+I wish you good night, my dear,
+But first, shit in your bed and make it burst.
+“_&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/02/02/motzart-scatology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/02/motzart-scatology.html</guid>
+      </item>
     
       <item>
         <title>Bat Boy</title>
@@ -14,7 +150,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/batboy.png&quot; class=&quot;db&quot; alt=&quot;Bat Boy&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/batboy.png&quot; class=&quot;db&quot; alt=&quot;Bat Boy&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -34,8 +170,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sun, 03 Nov 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/11/03/batboy.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/03/batboy.html</guid>
+        <link>http://localhost:4000/2019/11/03/batboy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/03/batboy.html</guid>
       </item>
     
       <item>
@@ -46,7 +182,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/euthanasiacoaster.png&quot; class=&quot;db&quot; alt=&quot;Euthanasia Coaster&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/euthanasiacoaster.png&quot; class=&quot;db&quot; alt=&quot;Euthanasia Coaster&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -66,8 +202,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/11/02/euthanasiarollercoaster.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/02/euthanasiarollercoaster.html</guid>
+        <link>http://localhost:4000/2019/11/02/euthanasiarollercoaster.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/euthanasiarollercoaster.html</guid>
       </item>
     
       <item>
@@ -78,7 +214,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/haastseagle.jpg&quot; class=&quot;db&quot; alt=&quot;Haast's Eagle&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/haastseagle.jpg&quot; class=&quot;db&quot; alt=&quot;Haast's Eagle&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -100,8 +236,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 01 Nov 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/11/01/haasteagle.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/11/01/haasteagle.html</guid>
+        <link>http://localhost:4000/2019/11/01/haasteagle.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/01/haasteagle.html</guid>
       </item>
     
       <item>
@@ -112,7 +248,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/existentialriskai.jpg&quot; class=&quot;db&quot; alt=&quot;Existential risk from artificial intelligence&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/existentialriskai.jpg&quot; class=&quot;db&quot; alt=&quot;Existential risk from artificial intelligence&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -132,8 +268,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Wed, 25 Sep 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/09/25/existentialartificialinteligence.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/25/existentialartificialinteligence.html</guid>
+        <link>http://localhost:4000/2019/09/25/existentialartificialinteligence.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/25/existentialartificialinteligence.html</guid>
       </item>
     
       <item>
@@ -144,7 +280,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/strawhatriot.png&quot; class=&quot;db&quot; alt=&quot;Straw Hat Riot&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/strawhatriot.png&quot; class=&quot;db&quot; alt=&quot;Straw Hat Riot&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -164,8 +300,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 24 Sep 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/09/24/strawhatriot.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/24/strawhatriot.html</guid>
+        <link>http://localhost:4000/2019/09/24/strawhatriot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/24/strawhatriot.html</guid>
       </item>
     
       <item>
@@ -176,7 +312,7 @@
             &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
                 &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
                 
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/barbra.jpg&quot; class=&quot;db&quot; alt=&quot;Streisand effect&quot; /&gt;
+                &lt;img src=&quot;http://localhost:4000/images/posts/barbra.jpg&quot; class=&quot;db&quot; alt=&quot;Streisand effect&quot; /&gt;
                 
                 &lt;/div&gt;
                 &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
@@ -200,152 +336,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 23 Sep 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/09/23/streisandeffect.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/23/streisandeffect.html</guid>
-      </item>
-    
-      <item>
-        <title>List of Paradoxes</title>
-        <description>
-&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
-        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/List_of_paradoxes&quot;&gt;
-            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-                
-                &lt;img src=&quot;https://www.wildwikis.com/images/wiki_standard.png&quot; class=&quot;db&quot; alt=&quot;List of Paradoxes&quot; /&gt;
-                
-                &lt;/div&gt;
-                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;List of Paradoxes&lt;/h1&gt;
-                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-                    This is a list of paradoxes, grouped thematically. The grouping is approximate, as paradoxes may fit into more than one category. This list collects only scenarios that have been called a paradox by at least one source and have their own article.
-                &lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
-
-&lt;h4 id=&quot;i-like-paradoxes-and-theres-a-ton-of-them-here&quot;&gt;I like paradoxes and theres a ton of them here&lt;/h4&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 13 Sep 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/09/13/listofparadoxes.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/09/13/listofparadoxes.html</guid>
-      </item>
-    
-      <item>
-        <title>Ambergris</title>
-        <description>
-&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
-        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Ambergris&quot;&gt;
-            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-                
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/ambergris.jpg&quot; class=&quot;db&quot; alt=&quot;Ambergris&quot; /&gt;
-                
-                &lt;/div&gt;
-                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Ambergris&lt;/h1&gt;
-                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-                    Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
-                &lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
-&lt;h4 id=&quot;people-even-like-to-eat-it&quot;&gt;People even like to eat it!&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“A serving of eggs and ambergris was reportedly King Charles II of England’s favorite dish.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;evidence-that-massive-squids-attack-sperm-whales&quot;&gt;Evidence that massive squids attack sperm whales&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“Because the beaks of giant squids have been discovered within lumps of ambergris, scientists have theorized that the substance is produced by the whale’s gastrointestinal tract to ease the passage of hard, sharp objects that it may have eaten.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Wed, 28 Aug 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/08/28/ambergris.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/28/ambergris.html</guid>
-      </item>
-    
-      <item>
-        <title>Stuxnet</title>
-        <description>
-&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
-        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Stuxnet&quot;&gt;
-            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-                
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/stuxnet.jpg&quot; class=&quot;db&quot; alt=&quot;Stuxnet&quot; /&gt;
-                
-                &lt;/div&gt;
-                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Stuxnet&lt;/h1&gt;
-                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-                    Stuxnet is a malicious computer worm, first uncovered in 2010, thought to have been in development since at least 2005. Stuxnet targets SCADA systems and is believed to be responsible for causing substantial damage to Iran's nuclear program. Although neither country has openly admitted responsibility, the worm is believed to be a jointly built American/Israeli cyberweapon.
-                &lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
-&lt;h4 id=&quot;mysterious-origins&quot;&gt;Mysterious origins&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“In 2015, Kaspersky Lab noted that the Equation Group had used two of the same zero-day attacks, prior to their use in Stuxnet, and commented that: “the similar type of usage of both exploits together in different computer worms, at around the same time, indicates that the Equation Group and the Stuxnet developers are either the same or working closely together”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Tue, 27 Aug 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/08/27/stuxnet.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/27/stuxnet.html</guid>
-      </item>
-    
-      <item>
-        <title>Bat Bomb</title>
-        <description>
-&lt;div class=&quot;shadow-4 grow pl4 pr4&quot;&gt;
-        &lt;a class=&quot;db pv4 ph3 ph0-l no-underline black&quot; href=&quot;https://en.wikipedia.org/wiki/Bat_bomb&quot;&gt;
-            &lt;div class=&quot;flex flex-column flex-row-ns&quot;&gt;
-                &lt;div class=&quot;pr3-ns mb4 mb0-ns w-100 w-40-ns&quot;&gt;
-                
-                &lt;img src=&quot;https://www.wildwikis.com/images/posts/batbomb.jpg&quot; class=&quot;db&quot; alt=&quot;Bat Bomb&quot; /&gt;
-                
-                &lt;/div&gt;
-                &lt;div class=&quot;w-100 w-60-ns pl3-ns&quot;&gt;
-                &lt;h1 class=&quot;f3 fw1 serif mt0 lh-title&quot;&gt;Bat Bomb&lt;/h1&gt;
-                &lt;p class=&quot;f6 lh-copy serif black-80&quot;&gt;
-                    Bat bombs were an experimental World War II weapon developed by the United States. The bomb consisted of a bomb-shaped casing with over a thousand compartments, each containing a hibernating Mexican free-tailed bat with a small, timed incendiary bomb attached.
-                &lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;why-its-wild&quot;&gt;Why it’s wild:&lt;/h2&gt;
-&lt;h4 id=&quot;glueing-napalm-to-bats---what-could-possibly-go-wrong&quot;&gt;Glueing Napalm to Bats - What could possibly go wrong?&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“After trying several attachment methods, they decided to attach the H-2 unit to the bats using an adhesive, gluing them to the front of the bats.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;whoops&quot;&gt;Whoops…&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“Carlsbad Army Airfield Auxiliary Air Base…was set on fire on May 15, 1943, when armed bats were accidentally released.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Tue, 13 Aug 2019 00:00:00 -0600</pubDate>
-        <link>https://www.wildwikis.com/2019/08/13/batbomb.html</link>
-        <guid isPermaLink="true">https://www.wildwikis.com/2019/08/13/batbomb.html</guid>
+        <link>http://localhost:4000/2019/09/23/streisandeffect.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/23/streisandeffect.html</guid>
       </item>
     
   </channel>
