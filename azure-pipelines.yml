@@ -15,9 +15,7 @@ steps:
     versionSpec: '>= 2.4'
     addToPath: true
     
-- script: |
-    CALL gem install bundler
-    bundle install --retry=3 --jobs=4
+- script: 'bundle update --bundler'
   displayName: 'bundle install'
     
 - task: Docker@0
