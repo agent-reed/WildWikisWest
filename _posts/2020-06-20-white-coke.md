@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: White Coke
 subtitle: Strange origin for a 90's era soda trend.
 date: 2020-6-20
@@ -8,8 +9,6 @@ author: Andrew G.
 image: white-coke.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

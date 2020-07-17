@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Haast's Eagle
 subtitle: Really big fucking bird (now extinct) in New Zealand
 date: 2019-11-1
@@ -8,8 +9,6 @@ author: Andrew G.
 image: haastseagle.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Why it's wild
 

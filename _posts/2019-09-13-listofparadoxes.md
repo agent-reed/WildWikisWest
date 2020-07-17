@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: List of Paradoxes
 subtitle: A comprehensive list of paradoxes
 date: 2019-09-13
@@ -7,8 +8,6 @@ linkText: This is a list of paradoxes, grouped thematically. The grouping is app
 author: Andrew G
 tags:
 ---
-
-{% include post.html %}
 
 ## Why it's wild:
 

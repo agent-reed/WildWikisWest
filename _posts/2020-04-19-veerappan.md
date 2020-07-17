@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Veerappan
 subtitle: Robinhood figure with a stellar mustache
 date: 2020-4-19
@@ -8,8 +9,6 @@ author: Phil W.
 image: veerappan.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

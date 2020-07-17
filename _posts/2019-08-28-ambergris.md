@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Ambergris
 subtitle: One sperm whale's digestive system is another man's perfume.
 date: 2019-08-28
@@ -8,8 +9,6 @@ author: Michael K
 image: ambergris.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ## Why it's wild:
 #### People even like to eat it!

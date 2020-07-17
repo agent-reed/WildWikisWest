@@ -1,0 +1,30 @@
+{% capture page_link %}
+{{ page.link}}
+{% endcapture %}
+
+{% capture page_image %}
+{{ page.image}}
+{% endcapture %}
+
+{% capture page_title %}
+{{ page.title}}
+{% endcapture %}
+
+{% capture page_linkText %}
+{{ page.linkText}}
+{% endcapture %}
+
+{% capture page_author %}
+{{ page.author}}
+{% endcapture %}
+
+{% capture page_date %}
+{{ page.date}}
+{% endcapture %}
+
+{% include upper.html %}
+{% include wikisection.html link=page_link image=page_image title=page_title linkText=page_linkText author=page_author date=page_date %}
+{{ page.content }}
+{% include signoff.html author=page_author date=page_date %}
+{% include lower.html %}
+

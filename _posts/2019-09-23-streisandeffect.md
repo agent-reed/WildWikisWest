@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Streisand effect
 subtitle: Hiding from the internet often backfires.
 date: 2019-09-23
@@ -8,8 +9,6 @@ author: Andrew G
 image: barbra.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Why it's wild
 

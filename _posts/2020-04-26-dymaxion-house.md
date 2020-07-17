@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Dymaxion house
 subtitle: The dynamic, maximum, tension house
 date: 2020-4-26
@@ -8,8 +9,6 @@ author: Andrew G.
 image: dymaxion-house.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

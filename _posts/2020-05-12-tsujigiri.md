@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Tsujigiri
 subtitle: Japanese term for a very specific type of murder.
 date: 2020-5-12
@@ -8,8 +9,6 @@ author: Andrew G.
 image: tsujigiri.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

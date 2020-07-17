@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Euthanasia Coaster
 subtitle: Roller Coaster designed for the expressed purpose to kill.
 date: 2019-11-2
@@ -8,8 +9,6 @@ author: Mike K.
 image: euthanasiacoaster.png
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

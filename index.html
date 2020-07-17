@@ -1,20 +1,35 @@
 ---
-layout: default
 ---
+{% assign recent = site.posts.first %}
+{% capture page_link %}
+{{ recent.link}}
+{% endcapture %}
 
-{% assign todayWiki = site.posts.first %}
+{% capture page_image %}
+{{ recent.image}}
+{% endcapture %}
 
-<div>
-{% if todayWiki.title %}
-  <div class="mb4">
-    {% if todayWiki.date %}<div class="fw600 light-silver mt1">Today's Wild Wiki - {{ todayWiki.date | date_to_string }}</div>{% endif %}
-    <h1 class="ttu f3 mt0 lh-title cb mb2">
-      <a href="{{todayWiki.link}}">{{ todayWiki.title }}</a> - {{todayWiki.subtitle}}
-    </h1>
-  </div>
-{% endif %}
-</div>
-{{todayWiki.content}}
-<p class="mt4">
-    Today's article discovered and uploaded by <strong>{{ todayWiki.author }}</strong>
-</p>
+{% capture page_title %}
+{{ recent.title}}
+{% endcapture %}
+
+{% capture page_linkText %}
+{{ recent.linkText}}
+{% endcapture %}
+
+{% capture page_content %}
+{{ recent.content}}
+{% endcapture %}
+
+{% capture page_author %}
+{{ recent.author}}
+{% endcapture %}
+
+{% capture page_date %}
+{{ recent.date}}
+{% endcapture %}
+
+{% include wikisection.html link=page_link image=page_image title=page_title linkText=page_linkText author=page_author date=page_date %}
+{{ recent.content }}
+{% include signoff.html author=page_author date=page_date %}
+

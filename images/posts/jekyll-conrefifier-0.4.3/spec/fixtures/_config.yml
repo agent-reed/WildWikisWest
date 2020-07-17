@@ -1,0 +1,34 @@
+gems:
+  - jekyll-conrefifier
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "_articles"
+    values:
+      layout: "article"
+
+audience: 'dotcom'
+
+data_file_variables:
+  -
+    scope:
+      path: ""
+    values:
+      version: "2.0"
+  -
+    scope:
+      path: "^categories"
+    values:
+      version: "dotcom"
+  -
+    scope:
+      path: "ent\\w+_"
+    values:
+      version: "2.1"

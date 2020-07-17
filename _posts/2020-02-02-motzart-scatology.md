@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Mozart and scatology
 subtitle: The composer's strange fascination with poop jokes
 date: 2020-2-2
@@ -9,13 +10,9 @@ image: mozart-scat.jpg
 tags:
 ---
 
-{% include post.html %}
-
 ### Quote from the article
 
-#### _"
-
-Are you ready my love.
+#### _"Are you ready my love.
 Stay strong and healthy for the fateful day,
 the day that I rupture your insides.
 Into your mouth your arse you'll shove.

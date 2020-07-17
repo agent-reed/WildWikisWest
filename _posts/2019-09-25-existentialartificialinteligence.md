@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Existential risk from artificial intelligence
 subtitle: Paralyzing information regarding the potential threat of creating intelligence artificially
 date: 2019-09-25
@@ -8,8 +9,6 @@ author: Andrew G.
 image: existentialriskai.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ### Why it's wild
 

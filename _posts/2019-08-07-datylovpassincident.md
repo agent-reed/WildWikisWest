@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Dyatlov Pass Incident
 subtitle: A soviet trekking expedition leads to the unexplained death of 9 scientists
 date: 2019-08-07
@@ -8,8 +9,6 @@ author: Andrew G
 image: dyatlovpassincident.jpg
 tags:
 ---
-
-{% include post.html %}
 
 ## Why it's wild:
 #### The "experienced" hikers seem to have left their shelter in a completely illogical fashion

@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Vincent Kosuga
 subtitle: The man that manipulated onion futures
 date: 2020-4-22
@@ -8,8 +9,6 @@ author: Mike K.
 image: 
 tags:
 ---
-
-{% include post.html %}
 
 ### Quote from the article
 

@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: Straw Hat Riot
 subtitle: Fashion traditions taken way too seriously
 date: 2019-09-24
@@ -8,8 +9,6 @@ author: Elise F.
 image: strawhatriot.png
 tags:
 ---
-
-{% include post.html %}
 
 ### Why it's wild
 

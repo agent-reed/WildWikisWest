@@ -1,0 +1,19 @@
+<div class="shadow-4 grow pl4 pr4">
+    <a class="db pv4 ph3 ph0-l no-underline black" href="{{include.link}}">
+        <div class="flex flex-column flex-row-ns">
+            <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+                {% if include.image %}
+                <img src="{{site.url}}/images/posts/{{include.image}}" class="db" alt="{{include.title}}">
+                {% else %}
+                <img src="{{site.url}}/images/wiki_standard.png" class="db" alt="{{include.title}}">
+                {% endif %}
+            </div>
+            <div class="w-100 w-60-ns pl3-ns">
+                <h1 class="f3 fw1 serif mt0 lh-title">{{include.title}}</h1>
+                <p class="f6 lh-copy serif black-80">
+                    {{include.linkText}}
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
