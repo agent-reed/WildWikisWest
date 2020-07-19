@@ -6,7 +6,7 @@ date: 2020-4-19
 link: https://en.wikipedia.org/wiki/Veerappan
 linkText: Koose Munisamy Veerappan was an Indian bandit (dacoit) who was active for 36 years, kidnapping major politicians for ransom.
 author: Phil W.
-image: veerappan.jpg
+image: https://upload.wikimedia.org/wikipedia/en/f/fc/VeerappanImg.jpg
 tags:
 ---
 

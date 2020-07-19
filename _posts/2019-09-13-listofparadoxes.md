@@ -6,6 +6,7 @@ date: 2019-09-13
 link: https://en.wikipedia.org/wiki/List_of_paradoxes
 linkText: This is a list of paradoxes, grouped thematically. The grouping is approximate, as paradoxes may fit into more than one category. This list collects only scenarios that have been called a paradox by at least one source and have their own article.
 author: Andrew G
+image: https://nellievetarl.files.wordpress.com/2015/10/wikipedia-logo_riesig.png
 tags:
 ---
 

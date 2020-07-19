@@ -6,7 +6,7 @@ date: 2020-2-2
 link: https://en.wikipedia.org/wiki/Mozart_and_scatology
 linkText: Wolfgang Amadeus Mozart displayed scatological humour in his letters and a few recreational compositions.
 author: Bill S.
-image: mozart-scat.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/9d/MariaAnnaTheklaMozart.PNG
 tags:
 ---
 

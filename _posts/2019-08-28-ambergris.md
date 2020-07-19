@@ -6,7 +6,7 @@ date: 2019-08-28
 link: https://en.wikipedia.org/wiki/Ambergris
 linkText: Ambergris is a solid, waxy, flammable substance of a dull grey or blackish colour produced in the digestive system of sperm whales. Freshly produced ambergris has a marine, fecal odor.
 author: Michael K
-image: ambergris.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b1/Ambergris.jpg
 tags:
 ---
 

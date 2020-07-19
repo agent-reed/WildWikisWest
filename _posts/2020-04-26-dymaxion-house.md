@@ -3,10 +3,10 @@ layout: wiki
 title: Dymaxion house
 subtitle: The dynamic, maximum, tension house
 date: 2020-4-26
-link: https://en.wikipedia.org/wiki/Vincent_Kosuga
+link: https://en.wikipedia.org/wiki/Dymaxion_house
 linkText: The Dymaxion House was developed by inventor and architect Buckminster Fuller to address several perceived shortcomings with existing homebuilding techniques. Fuller designed several versions of the house at different times — all of them factory manufactured kits, assembled on site, intended to be suitable for any site or environment and to use resources efficiently.
 author: Andrew G.
-image: dymaxion-house.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Dymaxion_house.jpg
 tags:
 ---
 

@@ -6,7 +6,7 @@ date: 2019-09-23
 link: https://en.wikipedia.org/wiki/Streisand_effect
 linkText: The Streisand effect is a phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet.
 author: Andrew G
-image: barbra.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/f6/Streisand_Estate.jpg
 tags:
 ---
 

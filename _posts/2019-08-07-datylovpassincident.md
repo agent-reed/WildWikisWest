@@ -6,7 +6,7 @@ date: 2019-08-07
 link: https://en.wikipedia.org/wiki/Dyatlov_Pass_incident
 linkText: The Dyatlov Pass incident refers to the deaths of nine skiers/hikers in the northern Ural Mountains, in the former Soviet Union, between the 1st and 2nd of February, 1959, due to unclear circumstances.
 author: Andrew G
-image: dyatlovpassincident.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/71/Dyatlov_Pass_incident_02.jpg
 tags:
 ---
 
