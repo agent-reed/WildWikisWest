@@ -6,7 +6,7 @@ date: 2020-5-12
 link: https://en.wikipedia.org/wiki/Tsujigiri
 linkText: Tsujigiri is a Japanese term for a practice when a samurai, after receiving a new katana or developing a new fighting style or weapon, tests its effectiveness by attacking a human opponent, usually a random defenseless passer-by, in many cases during nighttime.
 author: Andrew G.
-image: tsujigiri.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e0/Sano_Jirozaemon_Murdering_a_Courtesan_LACMA_M.84.31.539a-b.jpg
 tags:
 ---
 

@@ -29,7 +29,12 @@
 {{ recent.date}}
 {% endcapture %}
 
+<h4 class="gray lh-copy serif">
+Today's featured wiki - {{ page_date | date: "%D" }}
+</h4>
 {% include wikisection.html link=page_link image=page_image title=page_title linkText=page_linkText author=page_author date=page_date %}
+<div class="lh-copy serif">
 {{ recent.content }}
+</div>
 {% include signoff.html author=page_author date=page_date %}
 

@@ -4,12 +4,12 @@
 <body class="lh-copy dark-gray pa0 f6 sans-serif gradStuff">
 {% include horseheader.html %}
 <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--gray">
-    <nav class="bb b--gray pv4 tc" aria-label="Main">
-        {% for link in site.links %}
-          <a class="link blue hover-mid-gray mh2 pv1"
-             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
-             {{ link.name }}
-           </a>
-        {% endfor %}
+    <nav class="bb b--gray pv3 tc" aria-label="Main">
+        <div class="flex justify-center">
+            <a class="f6 grow ma3 no-underline br-pill ba bw1 ph3 pv2 mb2 dib hot-pink" href="/">Home</a>
+            <a class="f6 grow ma3 no-underline br-pill ba bw1 ph3 pv2 mb2 dib green" href="/archive">Archive</a>
+            <a class="f6 grow ma3 no-underline br-pill ba bw1 ph3 pv2 mb2 dib orange" href="/about">About</a>
+            <a class="f6 grow ma3 no-underline br-pill ba bw1 ph3 pv2 mb2 dib blue" href="/submit">Submit</a>
+          </div>
       </nav>
-<main class="tl f6 relative pa4 pa5-ns overflow-hidden">
+<main class="tl f6 relative pa4 pt4-ns pa5-ns overflow-hidden">

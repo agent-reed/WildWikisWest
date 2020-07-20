@@ -12,6 +12,6 @@ tags:
 
 ### Quote from the article
 
-#### _"Zhukov later asked if Coca-Cola could be manufactured and packaged to resemble vodka..."_
+ _"Zhukov later asked if Coca-Cola could be manufactured and packaged to resemble vodka..."_
 
 ---
