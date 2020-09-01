@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Cheeseman Park, Denver
+title: Cheesman Park, Denver
 subtitle: Sloppy undertaker fails to remove remains from one of Denver's biggest parks.
 date: 2020-7-01
 link: https://en.wikipedia.org/wiki/Cheesman_Park,_Denver

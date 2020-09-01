@@ -18,6 +18,12 @@ links:
   - name:         Submit
     url:          /submit.html
     external:     false
+  - name:         Success
+    url:          /submitsuccess.html
+    external:     false
+  - name:         SubmitError
+    url:          /submiterror.html
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 defaults:
