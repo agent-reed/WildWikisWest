@@ -22,6 +22,13 @@ namespace wildwikis.automation
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             dynamic data = JsonConvert.DeserializeObject(requestBody);
 
+            var link = data?.link;
+            var comments = data?.comments;
+            var email = data?.email;
+
+            log.LogInformation($"C# HTTP trigger function processed a request. {data}");
+
+
             // Extract the title to use from the link
 
             // Hit - https://en.wikipedia.org/w/api.php?action=query&titles={title}&format=json&prop=images and get a list back of all the images on the page
@@ -31,9 +38,9 @@ namespace wildwikis.automation
 
             // build up the page using the extracted info
 
-            // Use oktokit to open a PR with the newly created file added to the _posts folder
+            // Use Oktokit to open a PR with the newly created file added to the _posts folder
 
-            return new RedirectResult("http://localhost:4000/submitsuccess"); ;
+            return new JsonResult(data);
         }
     }
 }
