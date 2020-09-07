@@ -34,7 +34,8 @@ permalink: /submit/
             method:"POST",
             body: JSON.stringify({
                 link: document.getElementById('wikilink').value,
-                comments: document.getElementById('comment').value
+                comments: document.getElementById('comment').value,
+                username: "Andrew G"
             })
         })
         .then(response => response.json())
