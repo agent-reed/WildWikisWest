@@ -10,26 +10,32 @@ using Newtonsoft.Json;
 
 namespace wildwikis.automation
 {
-    public static class SubmissionRequest
+    public class SubmissionRequest
     {
+        private WikipediaClient _wikipediaClient;
+
         [FunctionName("SubmissionRequest")]
-        public static async Task<IActionResult> Run(
+        public async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req,
             ILogger log)
         {
-            log.LogInformation("C# HTTP trigger function processed a request.");
+            log.LogInformation($"C# HTTP trigger function processed a Submission Request.");
+            _wikipediaClient = new WikipediaClient(log);
 
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             dynamic data = JsonConvert.DeserializeObject(requestBody);
 
             var link = data?.link;
             var comments = data?.comments;
-            var email = data?.email;
-
-            log.LogInformation($"C# HTTP trigger function processed a request. {data}");
-
+            log.LogInformation($"The link: {link}");
 
             // Extract the title to use from the link
+            var uri = new Uri(link.ToString());
+            var segments = uri.Segments;
+            log.LogInformation($"The segments: {segments}");
+
+            var title = segments[2];
+            var wikipediaDescription = await _wikipediaClient.FetchArticleText(title);
 
             // Hit - https://en.wikipedia.org/w/api.php?action=query&titles={title}&format=json&prop=images and get a list back of all the images on the page
             // Take the first image that isn't an svg. otherwise take svgs.  If no images set the image to a placeholder
