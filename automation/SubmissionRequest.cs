@@ -19,7 +19,7 @@ namespace wildwikis.automation
         public async Task<IActionResult> Run(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req,
             ILogger log)
-        {
+{
             _wikipediaClient = new WikipediaClient(log);
             _githubClient = new GithubClient(log);
 
@@ -27,7 +27,7 @@ namespace wildwikis.automation
             SubmissionRequestDto submissionRequest = JsonConvert.DeserializeObject<SubmissionRequestDto>(requestBody);
 
             WikipediaArticle wikipediaArticle = await _wikipediaClient.FetchArticle(submissionRequest);
-            string pullRequest = await _githubClient.OpenNewPullRequest();
+            string pullRequest = await _githubClient.CreateFileInGit(wikipediaArticle);
 
             return new JsonResult(pullRequest);
         }
