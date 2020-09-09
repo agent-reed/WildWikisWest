@@ -43,7 +43,9 @@ namespace wildwikis.automation
             wiki.ImageUrl = await wikiImageUrl;
             var linkText = await wikiLinkText;
             wiki.LinkText = string.IsNullOrEmpty(linkText) ? $"A wild wiki submitted by {submissionRequest.Username}" : linkText;
-
+            wiki.Author = submissionRequest.Username;
+            wiki.Link = submissionRequest.Link;
+            wiki.Comments = submissionRequest.Comments;
             return wiki;
         }
 
