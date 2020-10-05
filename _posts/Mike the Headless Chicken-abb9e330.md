@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Mike the Headless Chicken
-subtitle: chicken
+subtitle: Colorado chicken that lived for 18 months after his head had been cut off.
 date: 2020-10-05
 link: https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken
 linkText: Mike the Headless Chicken (April 20, 1945 – March 17, 1947) was a Wyandotte chicken that lived for 18 months after his head had been cut off.
