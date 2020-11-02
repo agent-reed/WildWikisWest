@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Mousetrap (Denver)
-subtitle: interchange in Colorado
+subtitle: Interchange in Colorado that caused a major military accident
 date: 2020-11-02
 link: https://en.wikipedia.org/wiki/Mousetrap_(Denver)
 linkText: The Mousetrap is an informal name for the interchange of Interstate 25 and Interstate 70 in the northern part of Denver, Colorado, United States. The interchange pre-dates the Interstate Highway System, originally built as an intersection between two local roads in 1951. The interchange was completely rebuilt, starting in 1987. The re-design was prompted from an incident where a U.S. Navy truck ha
