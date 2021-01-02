@@ -22,10 +22,13 @@ namespace wildwikis.automation
         {
             _wikipediaClient = new WikipediaClient(log);
             _githubClient = new GithubClient(log, Environment.GetEnvironmentVariable("GithubToken", EnvironmentVariableTarget.Process));
+
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             SubmissionRequestDto submissionRequest = JsonConvert.DeserializeObject<SubmissionRequestDto>(requestBody);
 
             WikipediaArticle wikipediaArticle = await _wikipediaClient.FetchArticle(submissionRequest);
+            log.LogInformation("Finished Parsing Wikipedia Data");
+            
             string details = await _githubClient.UploadNewWikiPost(wikipediaArticle);
 
             return new JsonResult("Success");

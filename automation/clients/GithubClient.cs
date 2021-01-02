@@ -27,7 +27,7 @@ namespace wildwikis.automation
         }
 
         public async Task<string> UploadNewWikiPost(WikipediaArticle article) {
-            string branchTitle = article.Title.ToLower().Replace(" ", "-") + "-" + DateTime.Now.Ticks.ToString();
+            string branchTitle = article.Title.ToLower() + "-" + DateTime.Now.Ticks.ToString();
             string newBranchSha = await CreateNewBranch(branchTitle);
             string blobSha = await CreateFileInGit(article, branchTitle);
             string details = await OpenNewPullRequest(article, branchTitle);

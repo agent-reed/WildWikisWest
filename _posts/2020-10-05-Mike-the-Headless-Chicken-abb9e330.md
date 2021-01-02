@@ -8,5 +8,9 @@ linkText: Mike the Headless Chicken (April 20, 1945 – March 17, 1947) was a W
 author: Andrew G
 image: https://upload.wikimedia.org/wikipedia/en/4/46/MikeTheHeadlessChicken.jpg
 ---
-Mike began a career of touring sideshows in the company of such other anomalies as a two-headed baby.
+
+### Why it's Wild
+
+#### Mike began a career of touring sideshows in the company of such other anomalies as a two-headed baby
+
 ---

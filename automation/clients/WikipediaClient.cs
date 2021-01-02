@@ -37,6 +37,8 @@ namespace wildwikis.automation
             Task<string> wikiImageUrl = ParseArticleImage(data);
             Task<string> wikiLinkText = ParseArticleLinkText(data);
 
+            _logger.LogInformation("Building Article");
+
             // Build the article object
             wiki.Title = title.Replace('_', ' ');
             wiki.Description = await wikiDescription;
