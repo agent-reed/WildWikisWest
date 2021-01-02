@@ -4,7 +4,7 @@ description:      "Wild wikis of the west"
 url:              https://www.wildwikis.com # Site url, without a slash at the end.
 signoff:          "Andrew G" # Your name
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-future: false
+future: true
 links:
   - name:         Home
     url:          /
