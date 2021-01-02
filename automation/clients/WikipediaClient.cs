@@ -45,7 +45,7 @@ namespace wildwikis.automation
             wiki.LinkText = string.IsNullOrEmpty(linkText) ? $"A wild wiki submitted by {submissionRequest.Username}" : linkText;
             wiki.Author = submissionRequest.Username;
             wiki.Link = submissionRequest.Link;
-            wiki.Comments = submissionRequest.Comments;
+            wiki.Comments = "### Why it's wild:\n\n" + (string.IsNullOrEmpty(submissionRequest.Comments) ? $"No comments provided." : submissionRequest.Comments);
             return wiki;
         }
 

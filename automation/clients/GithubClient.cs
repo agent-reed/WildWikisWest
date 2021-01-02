@@ -91,7 +91,7 @@ namespace wildwikis.automation
             var blobSha = json["sha"].ToString();
 
             // Create a new git tree object containing the created blob and placement of new file
-            var tree = CreatePostTree(treeSha, blobSha, article.Title);
+            var tree = CreatePostTree(treeSha, blobSha, article.Title.Replace(' ', '-'));
             var treeResponse = await _client.PostAsync("git/trees", new StringContent(JsonConvert.SerializeObject(tree), Encoding.UTF8, "application/json"));
             var treeJsonString = await treeResponse.Content.ReadAsStringAsync();
             json = JsonConvert.DeserializeObject(treeJsonString);
@@ -123,7 +123,7 @@ namespace wildwikis.automation
             TreeCreateDto tree = new TreeCreateDto();
             tree.base_tree = baseTreeSha;
             TreeItem newTreeItem = new TreeItem();
-            newTreeItem.path = $"_posts/{wikiTitle}-{blobSha.Substring(0,8)}.md";
+            newTreeItem.path = $"_posts/{DateTime.Now.Year}-{DateTime.Now.Month}-{DateTime.Now.Day}-{wikiTitle}-{blobSha.Substring(0,8)}.md";
             newTreeItem.mode = "100644";
             newTreeItem.type = "blob";
             newTreeItem.sha = blobSha;

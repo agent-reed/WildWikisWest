@@ -31,6 +31,7 @@ permalink: /submit/
 <script>
     function submitWikiRequest(e) {
         if (e.preventDefault) e.preventDefault();
+        document.getElementById('success-id').innerHTML = '<h3>Uploading...</h3>';
         fetch('https://submissionrequest.azurewebsites.net/api/SubmissionRequest', {
             mode: 'cors',
             method:"POST",
@@ -43,7 +44,7 @@ permalink: /submit/
         .then(response => response.json())
         .then(json => {
             console.log(json)
-            document.getElementById('success-id').innerHTML = '<p>Successfully Submitted Wiki<p>';
+            document.getElementById('success-id').innerHTML = '<h3>Successfully Submitted Wiki</h3>';
         })
     };
 
