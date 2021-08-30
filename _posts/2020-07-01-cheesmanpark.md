@@ -13,5 +13,4 @@ tags:
 ### Quote from the article
 
  _"Hacking the bodies up, McGovern sometimes used as many as three caskets for just one body. In their haste, body parts and bones were literally strewn everywhere in a disorganized mess."_
-
 ---

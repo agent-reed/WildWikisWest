@@ -12,6 +12,6 @@ tags:
 
 ### Quote from the article
 
-#### _"He married Muthulakshmi, who reportedly married him because of his "notoriety and moustache" in 1990."_
+_"He married Muthulakshmi, who reportedly married him because of his "notoriety and moustache" in 1990."_
 
 ---

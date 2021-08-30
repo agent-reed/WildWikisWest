@@ -12,6 +12,6 @@ tags:
 
 ## Why it's wild:
 
-#### I like paradoxes and theres a ton of them here
+I like paradoxes and theres a ton of them here
 
 ---
